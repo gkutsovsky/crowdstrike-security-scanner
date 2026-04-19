@@ -36,7 +36,7 @@ venv\Scripts\activate
 
 **3. Install dependencies**
 ```bash
-pip install boto3
+pip3 install boto3
 ```
 
 **4. Configure AWS credentials**
